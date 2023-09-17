@@ -381,10 +381,11 @@ strong {
   transform: translateY(4px);
 }
 
+
 .btn22{
   position: absolute;
-  padding-top: 2rem;
-  padding-left: 70%;
+  padding-top: 0rem;
+  padding-left:70rem;
 }
 
 
